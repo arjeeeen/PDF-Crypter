@@ -13,6 +13,7 @@ Si consiglia di installare le seguenti dipendenze da un file `requirements.txt` 
 
 ```bash
 pip install -r requirements.txt
+'''
 
 ## Utilizzo
 1. **Nascondi testo all'interno del PDF e criptalo:**
