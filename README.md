@@ -8,7 +8,7 @@ Questo script Python consente di cifrare e decifrare dati all'interno di file PD
 - PyPDF2
 - cryptography
 - colorama
-- 
+ 
 ## Installazione delle Dipendenze
 Si consiglia di installare le seguenti dipendenze da un file `requirements.txt` per assicurarsi di avere tutte le librerie necessarie. Eseguire il seguente comando:
 
