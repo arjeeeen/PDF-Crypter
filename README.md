@@ -1,5 +1,7 @@
 # Script di Cifratura e Decifrazione di PDF
 
+![Anteprima](https://github.com/arjeeeen/PDF-Crypter/blob/main/preview.png)
+
 Questo script Python consente di cifrare e decifrare dati all'interno di file PDF utilizzando la libreria PyPDF2 e crittografia Fernet. Offre inoltre la possibilità di nascondere metadata all'interno del PDF e criptarli per una maggiore sicurezza.
 
 ## Dipendenze
